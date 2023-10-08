@@ -1,0 +1,8 @@
+
+The IOC file and code are uploaded
+
+Go to Real Term :
+  1) enable duplex mode in Display
+  2) Set baud rate to 9600 in Port
+  3) Check the port Your board is connected in device manager and open the port in Real Term
+  4) Type 'HI' to Set the LED and 'LO' to Reset it.
