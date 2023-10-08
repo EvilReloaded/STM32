@@ -1,0 +1,9 @@
+Enabling Usart 2 will help in serial communication via USB and Ral Term
+
+For communication via bluetooth , enbling any other USART channels in required
+
+I have used USART 1 here
+
+When 'N' is received via bluetooth, The builtin LED gets turned on
+
+You can always edit this project to set a turn off feature or stack any other codeson top of it
